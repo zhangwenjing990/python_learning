@@ -1,7 +1,6 @@
 # python_learning
+1.special_method:
+	1--item
 
-python基础练习
-
-python各个模块的练习代码
-
-本地提交到远程仓库
+2.object-oriented:
+	1--self
